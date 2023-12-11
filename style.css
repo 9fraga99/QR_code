@@ -1,0 +1,17 @@
+.form{
+    /* position: relative; */
+    z-index: 1;
+    background: #466bca;
+    max-width: 310px;
+    margin: 0 auto 100px;
+    padding: 30px 45px 45px 45px;
+    text-align: center;
+    box-shadow: 0 0 50px 0 rgba(0,0,0,0.9) 0 px 0px 0 rgba(0,0,0,0.24);
+    border-radius: 10px;
+    border: solid 2px  red;
+}
+.image{
+    width: 300px;
+    height: 300px;
+    border-radius: 10px;
+}
